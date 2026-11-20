@@ -1,0 +1,19 @@
+# ---- 모델 가중치 (용량이 커서 git 에 올리지 않음, 팀원끼리 따로 공유) ----
+*.pt
+*.joblib
+# best_config.json 은 작고 판정 기준이 들어 있으니 올림
+!code/models/best_config.json
+
+# ---- 학습 결과물 ----
+runs/
+**/runs/
+*.cache
+
+# ---- 파이썬 ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- 저작권 문제가 있는 캡처 이미지 ----
+ai_capture*.png
