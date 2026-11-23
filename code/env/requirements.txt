@@ -1,0 +1,11 @@
+# Anaconda 없이 pip / venv 로 설치할 때 (CPU 버전)
+#   pip install -r requirements.txt
+# NVIDIA GPU 를 쓰려면 먼저 아래를 설치한 뒤 위 명령 실행
+#   pip install torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu130
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.216
+scikit-learn==1.9.1
+scikit-image==0.26.0
+streamlit==1.67.0
+joblib==1.6.0

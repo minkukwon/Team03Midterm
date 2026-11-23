@@ -107,18 +107,22 @@ with c1:
     st.subheader("정면 사진")
     front_file = image_input("정면 사진을 올리거나 촬영하세요", mode, "front")
 with c2:
-    st.subheader("측면 사진")
-    side_file = image_input("측면 사진을 올리거나 촬영하세요", mode, "side")
+    st.subheader("측면 사진 (선택)")
+    side_file = image_input("측면 사진을 올리거나 촬영하세요 (없어도 분석 가능)", mode, "side")
 
 front, side = decode(front_file), decode(side_file)
-run = st.button("분석하기", type="primary", disabled=front is None or side is None, use_container_width=True)
-if front is None or side is None:
-    st.info("정면 사진과 측면 사진을 모두 넣으면 분석할 수 있습니다.")
+run = st.button("분석하기", type="primary", disabled=front is None, use_container_width=True)
+if front is None:
+    st.info("정면 사진을 넣으면 분석할 수 있습니다. 측면 사진도 넣으면 더 정확합니다.")
+elif side is None:
+    st.info("측면 사진 없이 정면 사진만으로 분석합니다. 안경 옆쪽 카메라는 측면에서 더 잘 보이므로, 가능하면 측면 사진도 넣어 주세요.")
+
+NO_IMAGE = {"detected": False, "dets": []}
 
 if run:
     with st.spinner("분석 중..."):
         rf_res = analyze(model, rf, "front", det_conf, front)
-        rs_res = analyze(model, rf, "side", det_conf, side)
+        rs_res = analyze(model, rf, "side", det_conf, side) if side is not None else dict(NO_IMAGE)
         key = "yolo_p" if cfg["scenario"] == "A" else "rf_p"
         if three_way:
             verdict, score = decide3(rf_res, rs_res, key, lens_t, ai_t)
@@ -129,6 +133,9 @@ if run:
 
     for col, title, img, res in ((c1, "정면", front, rf_res), (c2, "측면", side, rs_res)):
         with col:
+            if img is None:
+                st.caption("측면 사진을 넣지 않았습니다.")
+                continue
             st.image(draw(img, res), caption=f"{title} 탐지 결과", use_container_width=True)
             if res["detected"]:
                 m1, m2, m3 = st.columns(3)
@@ -140,7 +147,8 @@ if run:
 
     st.divider()
     if verdict is None:
-        st.error("### 판정 불가 — 재촬영 필요\n두 사진 모두에서 안경을 탐지하지 못했습니다. 밝은 곳에서 안경이 잘 보이게 다시 촬영하세요. "
+        where = "정면 사진" if side is None else "두 사진 모두"
+        st.error(f"### 판정 불가 — 재촬영 필요\n{where}에서 안경을 탐지하지 못했습니다. 밝은 곳에서 안경이 잘 보이게 다시 촬영하세요. "
                  "재촬영 후에도 판정되지 않으면 관리자가 직접 확인하세요.")
     else:
         lens_max = max([r["lens"] for r in (rf_res, rs_res) if r["detected"]], default=0.0)
@@ -152,6 +160,8 @@ if run:
         else:
             st.warning("### ⚠️ 확인 필요\n안경 모양은 AI 안경과 비슷하지만 카메라 렌즈가 확인되지 않았습니다. "
                        "두꺼운 뿔테 일반 안경일 수도 있으니 감독관이 직접 확인하세요.")
-        if not (rf_res["detected"] and rs_res["detected"]):
+        if side is None:
+            st.caption("정면 사진만으로 판정했습니다. 측면 사진을 추가하면 안경 옆쪽 카메라까지 확인할 수 있습니다.")
+        elif not (rf_res["detected"] and rs_res["detected"]):
             st.caption("한쪽 사진에서만 안경이 탐지되어, 탐지된 사진만으로 판정했습니다.")
         st.caption("※ 카메라 렌즈가 보이지 않는다는 이유만으로 일반 안경이라고 확정하지 않습니다.")

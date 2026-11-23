@@ -1,0 +1,25 @@
+# AI 안경 탐지 시스템 - Anaconda 환경 (NVIDIA GPU 버전, 학습 + 웹 GUI)
+# 그래픽 드라이버가 CUDA 13.0 이상을 지원해야 함 (nvidia-smi 오른쪽 위 "CUDA Version" 확인)
+# CUDA Toolkit 은 따로 설치하지 않아도 됨 (PyTorch 에 포함)
+#
+#   conda env create -f environment-gpu.yml
+#   conda activate glasses-gpu
+#
+# 드라이버가 CUDA 12.x 까지만 지원하거나 RTX 20~40 / GTX 시리즈라면
+# 아래 cu130 을 cu128(RTX 20~40) 또는 cu126(GTX 10 등)으로 바꾸고, torch/torchvision 버전 뒤 +cu130 도 같이 바꿀 것
+name: glasses-gpu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu130
+      - torch==2.14.1+cu130
+      - torchvision==0.29.1+cu130
+      - ultralytics==8.4.216
+      - scikit-learn==1.9.1      # models/rf_glasses.joblib 저장 버전과 맞춤
+      - scikit-image==0.26.0
+      - streamlit==1.67.0
+      - joblib==1.6.0
+      - ipykernel

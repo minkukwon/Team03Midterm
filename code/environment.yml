@@ -1,0 +1,22 @@
+# AI 안경 탐지 시스템 - Anaconda 환경 (CPU 버전, 웹 GUI 실행용)
+# GPU 가 없는 컴퓨터, 또는 판정(웹 GUI)만 실행하는 경우
+#
+#   conda env create -f environment.yml
+#   conda activate glasses
+#
+# NVIDIA GPU 로 학습하려면 environment-gpu.yml 을 사용
+name: glasses
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - torch==2.14.1
+      - torchvision==0.29.1
+      - ultralytics==8.4.216
+      - scikit-learn==1.9.1      # models/rf_glasses.joblib 저장 버전과 맞춤
+      - scikit-image==0.26.0
+      - streamlit==1.67.0
+      - joblib==1.6.0
+      - ipykernel                # Jupyter 커널로 쓸 때
