@@ -1,0 +1,10 @@
+# code 폴더에서 `streamlit run app.py` 를 실행할 때 적용되는 설정
+[server]
+# Windows(Hyper-V/WSL/Docker)가 8501 근처 포트를 예약하는 경우가 있어 8080 사용
+# 8080 도 막히면 `streamlit run app.py --server.port 9000` 처럼 다른 포트로 실행
+port = 8080
+# 처음 실행할 때 이메일을 묻지 않음 (브라우저는 직접 http://localhost:8080 접속)
+headless = true
+
+[browser]
+gatherUsageStats = false

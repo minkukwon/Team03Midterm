@@ -261,7 +261,10 @@ conda activate glasses
 streamlit run app.py
 ```
 
-브라우저에서 `http://localhost:8501` 접속. 처음 실행 시 이메일 입력 안내가 나오면 Enter로 넘어간다.
+브라우저에서 `http://localhost:8080` 접속.
+
+- 포트와 실행 옵션은 `code/.streamlit/config.toml`에 설정되어 있다 (포트 8080, 이메일 입력 안내 생략).
+- Streamlit 기본 포트(8501)는 Windows(Hyper-V·WSL·Docker)가 예약해 막는 경우가 있어 8080을 사용한다. `PermissionError: [WinError 10013]` 또는 `Port ... is not available` 에러가 나면 `streamlit run app.py --server.port 9000`처럼 다른 포트로 실행한다. 예약된 포트 범위는 `netsh interface ipv4 show excludedportrange protocol=tcp`로 확인할 수 있다.
 
 **다시 학습하는 경우** (`code` 폴더에서)
 
