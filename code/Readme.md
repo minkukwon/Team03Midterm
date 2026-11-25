@@ -273,6 +273,74 @@ GUI 프레임워크는 파이썬 기반의 **Streamlit을 우선 검토**한다.
 9. 최종 테스트용 이미지 쌍 확보
 10. 시스템 테스트 및 성능 평가
 
+## 12. 구현 (시나리오 A: YOLO11m 탐지 + YOLO11m-cls 분류) — `code/yolo/`
+
+| 파일 | 역할 |
+|---|---|
+| `config.py` | 경로, 클래스, 최종 판정 임계값(≥0.8 AI 안경 / ≤0.5 AI 안경 아님 / 그 사이 AI 안경 의심) |
+| `prepare_data.py` | 중복 제거본 생성(`work/det_data`), train+val을 **그룹·층화 5-fold**로 분할(동일/유사 사진은 같은 fold), fold별 yaml·분류 크롭 생성 |
+| `train.py` | 하이퍼파라미터 후보마다 **5-fold 교차검증** (탐지: mAP 기반 fitness, 분류: top-1 평균±표준편차) → 최적 후보로 train+val 전체 최종 학습 → `models/` 저장 |
+| `pipeline.py` | 탐지 → 분류 → 렌즈 반영 → 정면·측면 통합 → 최종 판정 |
+| `optimize_decision.py` | fold 모델의 **out-of-fold 예측**(train+val 전체 약 347장)으로 통합 판단 파라미터(det_conf, w_cls, 렌즈 비중, 통합 방식) 격자 탐색 |
+| `evaluate.py` | test 데이터로 탐지/분류/최종 시스템 평가 (F1, 미탐률, 오탐률, Confusion Matrix) |
+| `predict.py` | CLI: `py -3.12 predict.py 정면.jpg 측면.jpg` |
+| `app.py` | Streamlit GUI (이미지 업로드 / 카메라 촬영, 정면·측면 2장) |
+
+**실행 순서**
+
+```
+cd code/yolo
+py -3.12 -m pip install -r requirements.txt
+py -3.12 prepare_data.py
+py -3.12 train.py                 # 5-fold 탐색 + 최종 학습 (탐지 → 분류, 약 2~3시간)
+py -3.12 optimize_decision.py
+py -3.12 evaluate.py test
+py -3.12 -m streamlit run app.py
+```
+
+### 12.1 다른 PC(집)에서 학습하기
+
+1. **코드·데이터 받기** — 데이터셋(`labeldFiled`)도 저장소에 포함되어 있다.
+   ```
+   git clone https://github.com/minkukwon/Team03Midterm.git
+   cd Team03Midterm
+   git checkout feat/KMK-code
+   ```
+   (이미 clone 했다면 `git fetch` 후 `git checkout feat/KMK-code` → `git pull`)
+2. **환경 설치** — NVIDIA 드라이버가 설치된 PC, Python 3.10~3.12
+   ```
+   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+   pip install -r code/yolo/requirements.txt
+   python -c "import torch; print(torch.cuda.is_available())"   # True 여야 함
+   ```
+   Windows에서 여러 Python이 있으면 `python` 대신 `py -3.12` 사용.
+3. **경로 수정 불필요** — 모든 경로는 `config.py`가 저장소 위치 기준으로 계산한다.
+4. **실행** (`code/yolo` 폴더에서, 순서대로)
+   ```
+   python prepare_data.py          # 1분 내외
+   python train.py                 # RTX 3060 기준 약 2~3시간
+   python optimize_decision.py     # 1~2분
+   python evaluate.py test
+   ```
+   - 중간에 끊기면: 탐지가 끝났으면 `python train.py --stage cls`,
+     탐색까지 끝났으면 `--skip-search` 로 최종 학습만 다시 실행.
+   - 시간 단축: `python train.py --trials 2 --search-epochs 20`
+   - GPU 메모리 부족(OOM) 시: `train.py`의 `run()`에서 `batch` 값(16/8)을 절반으로.
+5. **결과물** — `code/yolo/models/` 폴더 전체
+   (`det_best.pt`, `cls_best.pt`, `*_best_hparams.json`, `decision_params.json`, `folds/`)
+   GUI를 실행할 PC의 같은 위치에 복사하면 된다. `models/`는 `.gitignore`로 제외되어 있으므로
+   USB/클라우드로 옮긴다 (GUI에는 `folds/` 불필요).
+6. **GUI 실행:** `python -m streamlit run app.py`
+
+**이미지 1장 점수:** `p = w_cls·P_cls(AI) + (1-w_cls)·(0.5 + 0.5·(conf_AI − conf_Normal))`,
+렌즈 탐지 시 `p ← p + (1-p)·lens_weight·conf_lens`. 안경·렌즈 모두 미탐지 시 재촬영 요청.
+
+**정면·측면 통합:** mean / max / weighted / cond(렌즈가 확인되면 max, 아니면 가중평균) 중 val 최적값 사용.
+동일 안경의 정면·측면 쌍 데이터가 없으므로, 같은 클래스의 이미지 2장을 묶은 모의 쌍으로 최적화한다.
+
+**데이터 주의:** 원본 val 77장 중 46장이 train과 동일한 파일이었다. 이 46장은 train에서 제외했다(원본 `labeldFiled`는 수정하지 않음).
+5-fold 분할 시 dHash로 찾은 유사 사진도 같은 fold로 묶어 누수를 막는다. test 12장은 fold에 넣지 않고 최종 평가에만 쓴다.
+
 ---
 
 **주의:** 본 시스템은 카메라 장착 AI 안경의 착용 가능성을 판별하기 위한 보조 도구이며, 부정행위를 자동으로 확정하지 않는다. 불확실하거나 의심되는 결과는 감독관이 최종 확인하도록 한다.
