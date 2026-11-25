@@ -1,6 +1,9 @@
-# 실행 시 자동 생성되는 파일 (커밋하지 않음)
 __pycache__/
 runs/
 work/
-models/
+models/*
 *.pt
+!models/det_best.pt
+!models/cls_best.pt
+!models/decision_params.json
+!models/*_best_hparams.json
