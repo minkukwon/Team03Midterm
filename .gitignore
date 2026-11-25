@@ -1,7 +1,10 @@
-# ---- 모델 가중치 (용량이 커서 git 에 올리지 않음, 팀원끼리 따로 공유) ----
+# ---- 모델 가중치 ----
+# 기본적으로 *.pt / *.joblib 은 올리지 않음 (yolo11m.pt 사전학습 원본은 학습 시 자동 다운로드)
 *.pt
 *.joblib
-# best_config.json 은 작고 판정 기준이 들어 있으니 올림
+# 웹 GUI 실행에 필요한 최종 모델과 판정 기준만 올림
+!code/models/best.pt
+!code/models/rf_glasses.joblib
 !code/models/best_config.json
 
 # ---- 학습 결과물 ----
