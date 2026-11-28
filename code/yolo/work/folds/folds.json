@@ -1,0 +1,1952 @@
+[
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image10.png",
+  "fold": 3,
+  "label": "background"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image101.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image102.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image103.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image104.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image106.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image107.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image109.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image11.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image110.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image111.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image112.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image113.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image114.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image115.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image116.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image117.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image120.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image121.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image122.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image123.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image124.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image125.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image126.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image127.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image129.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image131.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image132.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image133.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image135.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image136.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image137.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image138.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image14.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image140.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image142.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image143.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image144.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image145.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image146.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image147.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image148.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image149.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image15.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image150.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image152.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image153.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image154.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image157.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image158.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image160.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image161.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image163.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image165.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image167.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image168.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image170.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image174.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image175.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image176.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image177.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image178.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image179.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image180.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image181.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image182.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image185.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image186.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image187.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image188.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image190.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image191.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image194.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image195.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image196.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image197.png",
+  "fold": 1,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image198.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image199.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image20.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image200.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image201.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image202.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image203.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image204.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image205.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image206.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image207.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image208.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image209.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image21.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image210.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image211.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image212.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image213.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image214.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image215.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image216.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image217.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image218.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image219.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image22.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image220.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image221.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image222.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image223.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image224.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image225.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image226.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image227.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image228.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image229.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image230.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image231.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image232.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image233.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image234.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image235.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image236.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image237.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image238.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image239.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image24.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image240.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image241.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image242.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image243.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image244.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image245.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image246.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image247.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image248.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image249.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image25.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image250.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image251.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image252.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image253.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image254.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image255.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image256.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image257.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image258.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image259.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image26.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image260.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image261.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image262.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image263.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image264.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image265.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image266.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image267.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image268.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image269.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image270.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image271.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image272.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image273.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image274.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image275.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image276.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image277.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image278.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image279.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image28.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image280.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image281.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image282.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image283.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image284.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image285.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image286.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image287.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image288.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image289.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image29.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image290.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image291.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image292.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image293.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image294.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image295.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image296.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image297.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image298.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image299.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image3.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image30.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image300.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image301.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image302.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image303.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image304.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image305.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image306.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image307.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image308.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image309.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image31.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image310.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image311.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image312.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image313.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image314.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image315.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image316.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image317.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image318.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image319.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image32.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image320.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image321.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image322.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image323.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image324.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image325.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image326.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image327.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image328.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image329.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image330.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image331.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image332.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image333.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image334.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image335.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image336.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image337.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image338.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image339.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image34.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image340.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image341.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image342.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image343.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image35.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image36.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image39.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image40.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image41.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image42.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image43.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image44.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image45.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image46.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image46.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image47.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image48.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image49.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image49.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image5.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image50.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image50.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image51.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image51.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image52.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image52.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image53.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image54.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image55.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image55.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image56.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image57.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image58.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image59.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image59.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image6.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image60.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image60.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image61.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image61.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image62.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image62.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image63.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image64.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image65.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image65.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image66.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image67.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image67.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image68.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image68.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image69.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image69.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image70.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image70.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image71.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image71.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image72.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image72.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image73.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image73.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image74.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image74.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image76.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image76.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image77.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image78.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image79.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image8.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image80.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image82.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image83.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image84.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image86.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image88.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image89.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image9.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image93.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image95.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image96.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image98.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\train\\image99.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image1.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image100.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image105.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image106.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image108.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image118.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image119.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image12.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image127.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image128.png",
+  "fold": 3,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image13.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image130.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image132.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image134.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image139.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image141.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image145.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image151.png",
+  "fold": 1,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image154.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image155.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image156.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image159.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image16.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image162.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image163.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image164.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image166.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image168.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image169.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image17.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image171.png",
+  "fold": 4,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image172.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image173.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image175.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image18.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image181.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image182.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image183.png",
+  "fold": 2,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image184.png",
+  "fold": 2,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image186.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image189.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image19.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image192.png",
+  "fold": 0,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image193.png",
+  "fold": 3,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image198.png",
+  "fold": 0,
+  "label": "NoGlasses"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image2.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image200.png",
+  "fold": 4,
+  "label": "Normal"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image23.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image27.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image33.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image37.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image38.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image4.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image47.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image48.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image53.jpg",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image54.png",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image56.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image57.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image58.jpg",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image63.jpg",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image64.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image66.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image7.png",
+  "fold": 2,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image75.jpg",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image75.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image77.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image78.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image79.jpg",
+  "fold": 4,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image81.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image85.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image87.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image90.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image91.png",
+  "fold": 0,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image92.png",
+  "fold": 1,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image94.png",
+  "fold": 3,
+  "label": "AI"
+ },
+ {
+  "path": "C:\\Users\\user\\Desktop\\학교\\2-2\\오픈소스SW\\PROJECT\\code\\yolo\\work\\det_data\\images\\val\\image97.png",
+  "fold": 1,
+  "label": "AI"
+ }
+]

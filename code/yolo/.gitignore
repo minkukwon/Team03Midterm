@@ -1,9 +1,1 @@
 __pycache__/
-runs/
-work/
-models/*
-*.pt
-!models/det_best.pt
-!models/cls_best.pt
-!models/decision_params.json
-!models/*_best_hparams.json

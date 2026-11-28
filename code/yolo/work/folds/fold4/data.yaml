@@ -1,0 +1,9 @@
+path: C:/Users/user/Desktop/학교/2-2/오픈소스SW/PROJECT/code/yolo/work/det_data
+train: C:/Users/user/Desktop/학교/2-2/오픈소스SW/PROJECT/code/yolo/work/folds/fold4/train.txt
+val: C:/Users/user/Desktop/학교/2-2/오픈소스SW/PROJECT/code/yolo/work/folds/fold4/val.txt
+test: images/test
+names:
+  0: AIGlasses
+  1: AIGlasses_Lens
+  2: NormalGlasses
+  3: NoGlasses
