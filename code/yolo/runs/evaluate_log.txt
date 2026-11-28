@@ -1,0 +1,135 @@
+﻿Ultralytics 8.4.216  Python-3.11.9 torch-2.14.1+cu130 CUDA:0 (NVIDIA GeForce RTX 5070 Ti, 16275MiB)
+YOLO11m summary (fused): 125 layers, 20,033,116 parameters, 0 gradients, 67.8 GFLOPs
+[34m[1mval: [0mFast image access  (ping: 0.1±0.1 ms, read: 1412.0±485.6 MB/s, size: 1086.6 KB)
+
+[K[34m[1mval: [0mScanning C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\det_data\labels\test... 12 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 12/12 999.9it/s 0.0s
+[34m[1mval: [0mNew cache created: C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\det_data\labels\test.cache
+WARNING NMS time limit 2.050s exceeded
+
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 1/1 4.1s/it 4.1s
+                   all         12         24      0.769      0.874       0.82      0.512
+Speed: 0.2ms preprocess, 6.0ms inference, 0.0ms loss, 0.8ms postprocess per image
+Results saved to [1mC:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\runs\eval\det_test[0m
+Ultralytics 8.4.216  Python-3.11.9 torch-2.14.1+cu130 CUDA:0 (NVIDIA GeForce RTX 5070 Ti, 16275MiB)
+YOLO11m-cls summary (fused): 57 layers, 10,344,194 parameters, 0 gradients, 39.4 GFLOPs
+[34m[1mtrain:[0m C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\cls_data\train... found 375 images in 2/2 classes  
+[34m[1mval:[0m C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\cls_data\val... found 375 images in 2/2 classes  
+[34m[1mtest:[0m C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\cls_data\test... found 12 images in 2/2 classes  
+WARNING [34m[1mtest: [0mSlow image access detected (ping: 0.1±0.0 ms, read: 22.1±6.2 MB/s, size: 84.1 KB). Use local storage instead of remote/mounted storage for better performance. See https://docs.ultralytics.com/guides/model-training-tips
+
+[K[34m[1mtest: [0mScanning C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\cls_data\test... 12 images, 0 corrupt: 100% ━━━━━━━━━━━━ 12/12 2.0Kit/s 0.0s
+[34m[1mtest: [0mNew cache created: C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\cls_data\test.cache
+
+[K               classes   top1_acc   top5_acc: 100% ━━━━━━━━━━━━ 1/1 6.9it/s 0.1s
+                   all      0.667          1
+Speed: 0.2ms preprocess, 7.0ms inference, 0.0ms loss, 0.0ms postprocess per image
+Results saved to [1mC:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\runs\eval\cls_test[0m
+{
+  "det_5fold_cv": {
+    "fitness_mean": 0.49973,
+    "fitness_std": 0.04125674213022643,
+    "folds": [
+      0.490197,
+      0.509499,
+      0.573735,
+      0.46937999999999996,
+      0.455839
+    ],
+    "mAP50": 0.765482,
+    "mAP50-95": 0.470202,
+    "precision": 0.740874,
+    "recall": 0.787598
+  },
+  "cls_5fold_cv": {
+    "fitness_mean": 0.970688,
+    "fitness_std": 0.014922131751194277,
+    "folds": [
+      0.94937,
+      0.98701,
+      0.95946,
+      0.97059,
+      0.98701
+    ]
+  },
+  "detection": {
+    "precision": 0.7686596430947431,
+    "recall": 0.874170311966889,
+    "mAP50": 0.8201325757575758,
+    "mAP50-95": 0.5120173918673918,
+    "per_class_mAP50": {
+      "AIGlasses": 0.8528977272727274,
+      "AIGlasses_Lens": 0.925,
+      "NormalGlasses": 0.6825
+    }
+  },
+  "classification": {
+    "top1": 0.6666666865348816
+  },
+  "system_params": {
+    "det_conf": 0.1,
+    "w_cls": 0.4,
+    "lens_weight": 0.0,
+    "lens_conf": 0.5,
+    "fusion": "cond",
+    "w_front": 0.5
+  },
+  "system_single_image": {
+    "objective": 0.928921568627451,
+    "f1": 0.9411764705882353,
+    "precision": 0.8888888888888888,
+    "recall": 1.0,
+    "decisive_acc": 0.9166666666666666,
+    "ai_miss_rate": 0.0,
+    "normal_false_alarm": 0.25,
+    "confusion(>0.5)": {
+      "TP": 8,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3
+    },
+    "ternary": {
+      "AI": {
+        "AI 안경": 8,
+        "AI 안경 의심": 0,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 0
+      },
+      "Normal": {
+        "AI 안경": 1,
+        "AI 안경 의심": 0,
+        "AI 안경 아님": 3,
+        "재촬영 필요": 0
+      }
+    }
+  },
+  "system_simulated_pairs": {
+    "objective": 0.7956632653061224,
+    "f1": 0.8163265306122449,
+    "precision": 0.6896551724137931,
+    "recall": 1.0,
+    "decisive_acc": 0.775,
+    "ai_miss_rate": 0.0,
+    "normal_false_alarm": 0.45,
+    "confusion(>0.5)": {
+      "TP": 100,
+      "FN": 0,
+      "FP": 45,
+      "TN": 55
+    },
+    "ternary": {
+      "AI": {
+        "AI 안경": 100,
+        "AI 안경 의심": 0,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 0
+      },
+      "Normal": {
+        "AI 안경": 0,
+        "AI 안경 의심": 45,
+        "AI 안경 아님": 55,
+        "재촬영 필요": 0
+      }
+    }
+  }
+}
+저장: C:\Users\user\Desktop\학교\2-2\오픈소스SW\PROJECT\code\yolo\work\eval_report_test.json

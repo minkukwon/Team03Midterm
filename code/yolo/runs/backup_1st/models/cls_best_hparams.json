@@ -1,0 +1,31 @@
+{
+  "hparams": {
+    "optimizer": "AdamW",
+    "imgsz": 320,
+    "dropout": 0.1074,
+    "degrees": 13.3749,
+    "hsv_s": 0.4874,
+    "lr0": 0.000138
+  },
+  "cv": {
+    "mean": 0.975888,
+    "std": 0.015449308592943566,
+    "folds": [
+      0.98507,
+      0.97059,
+      0.95455,
+      0.96923,
+      1.0
+    ],
+    "best_epochs": [
+      3,
+      6,
+      5,
+      3,
+      11
+    ],
+    "pruned": false,
+    "detail": {}
+  },
+  "final_epochs": 15
+}

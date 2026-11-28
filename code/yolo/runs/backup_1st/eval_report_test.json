@@ -1,0 +1,182 @@
+{
+  "det_5fold_cv": {
+    "fitness_mean": 0.4785142,
+    "fitness_std": 0.032046121315379185,
+    "folds": [
+      0.48154600000000003,
+      0.526038,
+      0.45199500000000004,
+      0.435878,
+      0.497114
+    ],
+    "mAP50": 0.7384,
+    "mAP50-95": 0.449638,
+    "precision": 0.686784,
+    "recall": 0.754476
+  },
+  "cls_5fold_cv": {
+    "fitness_mean": 0.975888,
+    "fitness_std": 0.015449308592943566,
+    "folds": [
+      0.98507,
+      0.97059,
+      0.95455,
+      0.96923,
+      1.0
+    ]
+  },
+  "detection": {
+    "precision": 0.793072934538455,
+    "recall": 0.7083333333333334,
+    "mAP50": 0.6737614237614239,
+    "mAP50-95": 0.43730351639101633,
+    "per_class_mAP50": {
+      "AIGlasses": 0.857777777777778,
+      "AIGlasses_Lens": 0.9185064935064934,
+      "NormalGlasses": 0.245
+    }
+  },
+  "classification": {
+    "top1": 0.6666666865348816
+  },
+  "system_params": {
+    "det_conf": 0.1,
+    "w_cls": 0.6,
+    "lens_weight": 0.5,
+    "lens_conf": 0.4,
+    "fusion": "cond",
+    "w_front": 0.5
+  },
+  "system_single_image": {
+    "objective": 0.6600877192982456,
+    "f1": 0.7368421052631579,
+    "precision": 0.6363636363636364,
+    "recall": 0.875,
+    "decisive_acc": 0.5833333333333334,
+    "ai_miss_rate": 0.125,
+    "normal_false_alarm": 1.0,
+    "confusion(>0.5)": {
+      "TP": 7,
+      "FN": 1,
+      "FP": 4,
+      "TN": 0
+    },
+    "ternary": {
+      "AI": {
+        "AI 안경": 7,
+        "AI 안경 의심": 0,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 1
+      },
+      "Normal": {
+        "AI 안경": 3,
+        "AI 안경 의심": 1,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 0
+      }
+    }
+  },
+  "system_simulated_pairs": {
+    "objective": 0.5833333333333333,
+    "f1": 0.6666666666666666,
+    "precision": 0.5,
+    "recall": 1.0,
+    "decisive_acc": 0.5,
+    "ai_miss_rate": 0.0,
+    "normal_false_alarm": 1.0,
+    "confusion(>0.5)": {
+      "TP": 100,
+      "FN": 0,
+      "FP": 100,
+      "TN": 0
+    },
+    "ternary": {
+      "AI": {
+        "AI 안경": 100,
+        "AI 안경 의심": 0,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 0
+      },
+      "Normal": {
+        "AI 안경": 68,
+        "AI 안경 의심": 32,
+        "AI 안경 아님": 0,
+        "재촬영 필요": 0
+      }
+    }
+  },
+  "per_image": [
+    {
+      "image": "test1.png",
+      "label": "AI",
+      "score": 0.9844723885138009,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test10.png",
+      "label": "Normal",
+      "score": 0.9743080973625183,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test11.png",
+      "label": "Normal",
+      "score": 0.55495046377182,
+      "verdict": "AI 안경 의심"
+    },
+    {
+      "image": "test12.png",
+      "label": "Normal",
+      "score": 0.9564585140043725,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test2.png",
+      "label": "AI",
+      "score": 0.9752659832904413,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test3.png",
+      "label": "AI",
+      "score": 0.9822564918325344,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test4.png",
+      "label": "AI",
+      "score": 0.9851529937854194,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test5.png",
+      "label": "AI",
+      "score": null,
+      "verdict": "재촬영 필요"
+    },
+    {
+      "image": "test6.png",
+      "label": "AI",
+      "score": 0.9856075526514303,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test7.png",
+      "label": "AI",
+      "score": 0.9816462244232639,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test8.png",
+      "label": "AI",
+      "score": 0.9857915442826614,
+      "verdict": "AI 안경"
+    },
+    {
+      "image": "test9.png",
+      "label": "Normal",
+      "score": 0.9780139565467835,
+      "verdict": "AI 안경"
+    }
+  ]
+}
